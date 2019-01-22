@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWapp", "WindowsFormsSWapp\SWapp.csproj", "{8ADF70BA-620A-47D2-A818-D00914EEE691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADF70BA-620A-47D2-A818-D00914EEE691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADF70BA-620A-47D2-A818-D00914EEE691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADF70BA-620A-47D2-A818-D00914EEE691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADF70BA-620A-47D2-A818-D00914EEE691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0ACE3DA-4666-4804-8F31-EF6B86CC9748}
+	EndGlobalSection
+EndGlobal
